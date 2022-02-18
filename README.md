@@ -2,7 +2,7 @@
 
 ![](Title.png)
 
-# Initial Idea
+# IDEATION
 
   A stamp kit made made fully from waste/bio material for kids to construct and play with.  
 
@@ -13,20 +13,21 @@ The point was to test out different cutting and mold making making techniques 
 We are already executing our interventions together, and we are working in the areas of creative uses of waste, specifically in children’s toys and child play. We are currently working on building several toys made completely from waste and biodegradable materials in order to proceed with our interventions.
 
 
-- [ ] propose (what is supposed to do or not to do)
+# PURPOSE
+
  Our artifact is a collection of stamps with exchangeable handles that kids can use to make drawings our map out graphics. We went for a simple object and decided not to reinvent the wheel, but rather, question the way it’s made and challenge it.
 
-- [ ] show how your team planned and executed the project
+# PLANNING AND EXECUTION
 
 As we are already have common values and aligned interests, it was easy for us to pick something and go with it. We then proceeded in writing down all the steps required to reach our final result. You can find the list below, and a thorough breakdown of the instructions to replicate the stamps.
 
 Overall, we had 4 main aspects to deal with: (1) design, (2) materials, (3) packaging, (4) finalizing + execution.
 
-- [ ] system diagram (illustration explaining function parts, and relations)
+# DIAGRAM
 
 Here is a diagram to explain the main components that make up the stamps.
 
-￼
+￼![](diagram.png)
 
 
 - [ ] integrated design (how you designed it - relation between elements)
