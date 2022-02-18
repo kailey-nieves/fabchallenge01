@@ -27,7 +27,7 @@ Overall, we had 4 main aspects to deal with: (1) design, (2) materials, (3) pack
 
 Here is a diagram to explain the main components that make up the stamps.
 
-￼![](diagram.png)
+￼![](Diagram01.png)
 
 
 - [ ] integrated design (how you designed it - relation between elements)
