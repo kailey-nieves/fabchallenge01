@@ -1,6 +1,6 @@
 # BIOSTAMPS
 
-![](THE VISUAL.png)
+![](coverr-01.png)
 
 And hello there
 
