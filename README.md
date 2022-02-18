@@ -1,6 +1,6 @@
 # BIOSTAMPS
 
-![](/Users/GeorgeHanna/Documents/Git-mdef/fabchallenge01/THE VISUAL.png)
+![](THE VISUAL.png)
 
 And hello there
 
