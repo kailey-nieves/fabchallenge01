@@ -23,6 +23,8 @@ We are already executing our interventions together, and we are working in the a
 
 As we are already have common values and aligned interests, it was easy for us to pick something and go with it. We then proceeded in writing down all the steps required to reach our final result. You can find the list below, and a thorough breakdown of the instructions to replicate the stamps.
 
+![](planning.png)
+
 Overall, we had 4 main aspects to deal with: (1) design, (2) materials, (3) packaging, (4) finalizing + execution.
 
 ### DIAGRAM
@@ -48,6 +50,8 @@ Same process as above, but a different design.
 We had to think of the main shape of the stamp and the size of it, we also had to think of the way the different handles we designed can be replaced with each other by being attachable and removable from the stamp base.
 
 ## HONEST DESIGN
+
+![](lasercut.png)
 
 We mainly focused on the laser cut machine for this exercise, and how we can create molds (whether negative or positive) from different materials through the laser cutting technique. We had also employed the press to produce melted plastic sheets for the stamp base and the handles.
 
