@@ -1,6 +1,6 @@
 # BIOSTAMPS
 
-![](THE VISUAL-01.png)
+![](Title.png)
 
 # Initial Idea
 
