@@ -199,7 +199,7 @@ We used dried biomaterials made from agar agar in the fab lab before and pu ti i
 
 ### Files
 
-https://drive.google.com/drive/folders/13RiUKnbR8jVbskIQwJwyid_fhSR83Nel?usp=sharing
+[Click here for design files.](https://github.com/gecrgehanna/fabchallenge01/tree/main/Design%20files)
 
 ### Designs
 
